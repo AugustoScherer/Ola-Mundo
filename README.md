@@ -1,16 +1,16 @@
-👉 Hello World, my name is José! 💻
+👉 ("Hello World"), meu nome é José!
 
-    Pleasure, my name is José Augusto I am 28.06.2000 years old, I am a student of Systems Analysis and Development focused on the back-end 🤓 
-    Welcome, this is my public repository for study purposes  📖
+    Prazer! Me chamo José Augusto, tenho 28/06/2000 anos de idade, estou cursando superior em Análise e Desenvolvimento de Sistemas (formação em 2024). Meu objetivo é ser um programador back-end! 
     
-    ✅ Advanced English in reading, writing and listening;
-    ✅ Hardware knowledge and experience;
-    ✅ Knowledge and experience in Algorithms; 
-    ✅ Knowledge in Binary;
+    ✅ Inglês avançado;
+    ✅ Experiência e conhecimento em Hardware;
+    ✅ Experiência e conhecimento em Algorítmos; 
+    ✅ Conhecimento em binário;
 
-    📚 Learning Javascript and MySQL server;
-    📚 Learning USA-English 🇺🇸;
+    📚 Estudando MySQL Server e Javascript;
+    📚 Estudando USA-English 🇺🇸;
 
 
-    📍 I am from Brazil 🇧🇷
-    📬 E-mail, for contact: jose.a.scherer@gmail.com
+    📍 Rio Grande so Sul/Brasil 🇧🇷
+    📬 E-mail, para contato: jose.a.scherer@gmail.com
+
