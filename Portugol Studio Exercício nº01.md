@@ -20,10 +20,11 @@ programa
 		leia(anos)
 		limpa()
 
-			tv = nc * 0.007
+			tv = nc * 0.007 //10min correspondem a 0.007dias
 			dias = anos*365
 			ttv = tv * dias
 		escreva ("Você tem ", ttv," dias a menos de vida!")
 	}
 }
 ```
+Quaisquer dúvida, ou sujestão, fique à vontade para contribuir!
