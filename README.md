@@ -1,14 +1,18 @@
 👉 ("Hello World"), meu nome é José!
 
-    Prazer! Me chamo José Augusto, tenho 28/06/2000 anos de idade, estou cursando superior em Análise e Desenvolvimento de Sistemas (formação em 2024). Meu objetivo é ser um programador back-end! 
+   Prazer! Me chamo José Augusto, tenho 21 anos de idade, sou estudante de Análise e Desenvolvimento de Sistemas-Univates/RS. 
+    
+   Meu guia de estudos 2021-2022 👇
+    
+   [Roadmap back-end](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/backend.png?year-2021-2)
     
     ✅ Inglês avançado;
     ✅ Experiência e conhecimento em Hardware;
     ✅ Experiência e conhecimento em Algorítmos; 
     ✅ Conhecimento em binário;
 
-    📚 Estudando MySQL Server e Javascript;
-    📚 Estudando USA-English 🇺🇸;
+    📚 MySQL Server e Javascript;
+    📚 USA-English 🇺🇸;
 
 
     📍 Rio Grande so Sul/Brasil 🇧🇷
