@@ -17,7 +17,7 @@ programa
 		caracter resp='s'
 		caracter sexo
 	  inteiro idade
-	  inteiro cont=0
+	  inteiro cont=1
 	  inteiro maior=0, menor=0
 	  inteiro tot=0
 	  inteiro soma=0
@@ -25,7 +25,7 @@ programa
 	  //para a idade da mulher
 	  inteiro maiorf=0
 	  inteiro menorf=0
-	  inteiro contf=0
+	  inteiro contf=1
 	  inteiro idadef
 	    
 	   
@@ -51,11 +51,12 @@ programa
 				se (idade > maior){
 					maior = idade
 				}senao{
-					se (idade < menor)
+					se (idade < menor){
 					menor = idade
-				}
-			}
-		     cont++
+					}
+			       } 
+		       }
+		       cont++
 
 			se (sexo=='m'){
 				tot++
