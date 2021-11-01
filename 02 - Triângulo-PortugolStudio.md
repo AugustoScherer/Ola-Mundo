@@ -1,4 +1,4 @@
-Crie em programa que leia o tamanho de três segmentos de reta. Analise seus ccomprimentos e diga se é possível formar um triângulo e diga que tipo
+Crie em programa que leia o tamanho de três segmentos de reta. Analise seus comprimentos e diga se é possível formar um triângulo e diga que tipo
 de triângulo será formado:
 - OBS: Para três segmentos de reta formarem um triângulo, o comprimento de cada lado deve ser menor que a soma dos outros dois
 - EQUILÁTERO: todos os lados iguais
@@ -45,4 +45,5 @@ programa
 }
 ```
 Quaisquer dúvida, ou sugestão, comente!
-Bons estudos!
+
+**Bons estudos!**
